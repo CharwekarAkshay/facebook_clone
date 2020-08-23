@@ -105,6 +105,7 @@ final List<Story> stories = [
   Story(
     user: onlineUsers[9],
     imageUrl: 'https://mfiles.alphacoders.com/875/thumb-875976.png',
+    isViewed: true,
   ),
   Story(
     user: onlineUsers[12],
@@ -117,10 +118,12 @@ final List<Story> stories = [
   Story(
     user: onlineUsers[14],
     imageUrl: 'https://mfiles.alphacoders.com/854/thumb-854199.jpg',
+    isViewed: true,
   ),
   Story(
     user: onlineUsers[3],
     imageUrl: 'https://mfiles.alphacoders.com/866/thumb-866227.png',
+    isViewed: true,
   ),
   Story(
     user: onlineUsers[18],
@@ -129,10 +132,12 @@ final List<Story> stories = [
   Story(
     user: onlineUsers[5],
     imageUrl: 'https://mfiles.alphacoders.com/863/thumb-863390.png',
+    isViewed: true,
   ),
   Story(
     user: onlineUsers[7],
     imageUrl: 'https://mfiles.alphacoders.com/853/thumb-853999.jpg',
+    isViewed: true,
   ),
   Story(
     user: onlineUsers[11],
