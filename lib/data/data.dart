@@ -186,7 +186,7 @@ final List<Post> posts = [
   ),
   Post(
     user: onlineUsers[9],
-    caption: 'Dark from return',
+    caption: 'Dark form return',
     timeAgo: '12h',
     imageUrl: 'https://images4.alphacoders.com/933/thumb-1920-933796.jpg',
     likes: 1231,
