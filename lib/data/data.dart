@@ -2,10 +2,11 @@ import 'package:facebook_clone/models/models.dart';
 
 final User currentUser = User(
   name: 'Akshay Charwekar',
-  imageUrl: 'https://images8.alphacoders.com/545/545909.jpg',
+  imageUrl:
+      'https://images.unsplash.com/photo-1594823274242-19036bf455e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60',
 );
 
-final List<User> onlineUser = [
+final List<User> onlineUsers = [
   User(
     name: 'Naruto Uzumaki',
     imageUrl: 'https://images3.alphacoders.com/644/thumb-1920-644130.png',
@@ -98,43 +99,43 @@ final List<User> onlineUser = [
 
 final List<Story> stories = [
   Story(
-    user: onlineUser[17],
+    user: onlineUsers[17],
     imageUrl: 'https://mfiles.alphacoders.com/873/thumb-873105.jpg',
   ),
   Story(
-    user: onlineUser[9],
+    user: onlineUsers[9],
     imageUrl: 'https://mfiles.alphacoders.com/875/thumb-875976.png',
   ),
   Story(
-    user: onlineUser[12],
+    user: onlineUsers[12],
     imageUrl: 'https://mfiles.alphacoders.com/776/thumb-776589.jpg',
   ),
   Story(
-    user: onlineUser[2],
+    user: onlineUsers[2],
     imageUrl: 'https://mfiles.alphacoders.com/870/thumb-870051.png',
   ),
   Story(
-    user: onlineUser[14],
+    user: onlineUsers[14],
     imageUrl: 'https://mfiles.alphacoders.com/854/thumb-854199.jpg',
   ),
   Story(
-    user: onlineUser[3],
+    user: onlineUsers[3],
     imageUrl: 'https://mfiles.alphacoders.com/866/thumb-866227.png',
   ),
   Story(
-    user: onlineUser[18],
+    user: onlineUsers[18],
     imageUrl: 'https://mfiles.alphacoders.com/855/thumb-855449.jpg',
   ),
   Story(
-    user: onlineUser[5],
+    user: onlineUsers[5],
     imageUrl: 'https://mfiles.alphacoders.com/863/thumb-863390.png',
   ),
   Story(
-    user: onlineUser[7],
+    user: onlineUsers[7],
     imageUrl: 'https://mfiles.alphacoders.com/853/thumb-853999.jpg',
   ),
   Story(
-    user: onlineUser[11],
+    user: onlineUsers[11],
     imageUrl: 'https://mfiles.alphacoders.com/853/thumb-853015.jpg',
   ),
 ];
@@ -151,7 +152,7 @@ final List<Post> posts = [
     shares: 305,
   ),
   Post(
-    user: onlineUser[0],
+    user: onlineUsers[0],
     caption:
         'Place where lot of fight ⚔️ has been taken place.\n Hashirama-Madara\n Naruto-Sasuke * 2',
     timeAgo: '1h',
@@ -161,7 +162,7 @@ final List<Post> posts = [
     shares: 7,
   ),
   Post(
-    user: onlineUser[19],
+    user: onlineUsers[19],
     caption: 'Chilling with friends ',
     timeAgo: '3h',
     imageUrl: 'https://picfiles.alphacoders.com/323/thumb-323670.jpg',
@@ -170,7 +171,7 @@ final List<Post> posts = [
     shares: 12,
   ),
   Post(
-    user: onlineUser[12],
+    user: onlineUsers[12],
     caption: '❤️',
     timeAgo: '7h',
     imageUrl: 'https://images4.alphacoders.com/698/thumb-350-698808.png',
@@ -179,7 +180,7 @@ final List<Post> posts = [
     shares: 32,
   ),
   Post(
-    user: onlineUser[9],
+    user: onlineUsers[9],
     caption: 'Dark from return',
     timeAgo: '12h',
     imageUrl: 'https://images4.alphacoders.com/933/thumb-1920-933796.jpg',
@@ -188,7 +189,7 @@ final List<Post> posts = [
     shares: 765,
   ),
   Post(
-    user: onlineUser[8],
+    user: onlineUsers[8],
     caption: 'https://images5.alphacoders.com/910/thumb-350-910283.jpg',
     timeAgo: 'yesterday',
     imageUrl: 'Brothers/ Friends',
