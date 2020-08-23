@@ -195,9 +195,9 @@ final List<Post> posts = [
   ),
   Post(
     user: onlineUsers[8],
-    caption: 'https://images5.alphacoders.com/910/thumb-350-910283.jpg',
+    caption: 'Brothers / Friends',
     timeAgo: 'yesterday',
-    imageUrl: 'Brothers/ Friends',
+    imageUrl: 'https://images5.alphacoders.com/910/thumb-350-910283.jpg',
     likes: 1252,
     comments: 121,
     shares: 121,
