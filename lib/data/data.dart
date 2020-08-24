@@ -69,7 +69,7 @@ final List<User> onlineUsers = [
   ), //14
   User(
     name: 'Hashirama Senju',
-    imageUrl: 'https://images3.alphacoders.com/680/thumb-1920-680852.jpgs',
+    imageUrl: 'https://images7.alphacoders.com/790/thumb-1920-790608.png',
   ), //15
   User(
     name: 'All Might',
@@ -161,7 +161,7 @@ final List<Post> posts = [
     caption:
         'Place where lot of fight ⚔️ has been taken place.\n Hashirama-Madara\n Naruto-Sasuke * 2',
     timeAgo: '1h',
-    imageUrl: 'https://images8.alphacoders.com/605/thumb-350-605599.jpg',
+    imageUrl: 'https://images8.alphacoders.com/605/thumb-1920-605599.jpg',
     likes: 3572,
     comments: 145,
     shares: 7,
@@ -170,7 +170,7 @@ final List<Post> posts = [
     user: onlineUsers[19],
     caption: 'Chilling with friends ',
     timeAgo: '3h',
-    imageUrl: 'https://picfiles.alphacoders.com/323/thumb-323670.jpg',
+    imageUrl: 'https://picfiles.alphacoders.com/323/thumb-1920-323670.jpg',
     likes: 1221,
     comments: 524,
     shares: 12,
@@ -179,7 +179,7 @@ final List<Post> posts = [
     user: onlineUsers[12],
     caption: '❤️',
     timeAgo: '7h',
-    imageUrl: 'https://images4.alphacoders.com/698/thumb-350-698808.png',
+    imageUrl: 'https://images4.alphacoders.com/698/thumb-1920-698808.png',
     likes: 8769,
     comments: 221,
     shares: 32,
@@ -197,7 +197,7 @@ final List<Post> posts = [
     user: onlineUsers[8],
     caption: 'Brothers / Friends',
     timeAgo: 'yesterday',
-    imageUrl: 'https://images5.alphacoders.com/910/thumb-350-910283.jpg',
+    imageUrl: 'https://images5.alphacoders.com/910/thumb-1920-910283.jpg',
     likes: 1252,
     comments: 121,
     shares: 121,

@@ -65,8 +65,14 @@ class _StoryCard extends StatelessWidget {
       children: [
         ClipRRect(
           borderRadius: BorderRadius.circular(12.0),
-          child: CachedNetworkImage(
-            imageUrl: isAddStory ? currentUser.imageUrl : story.imageUrl,
+          // child: CachedNetworkImage(
+          //   imageUrl: isAddStory ? currentUser.imageUrl : story.imageUrl,
+          //   height: double.infinity,
+          //   width: 110.0,
+          //   fit: BoxFit.cover,
+          // ),
+          child: Image.network(
+            isAddStory ? currentUser.imageUrl : story.imageUrl,
             height: double.infinity,
             width: 110.0,
             fit: BoxFit.cover,
