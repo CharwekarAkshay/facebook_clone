@@ -7,9 +7,7 @@
     facebook UI visuals which is almost similar to actual app. I will take this project further and make it functional. As of now we have a android application and web application that runs perfectly fine on any browser.
 
 ## Looks
-    ![Mobile View](screenshots/Images/Facebook_Clone_Mobile.png)
-    Format: ![Alt Text](url)
-    ![Desktop View](screenshots/Images/Facebook_Clone_Mobile.png)
-    Format: ![Alt Text](url)
+    ![Mobile View](/screenshots/Images/Facebook_Clone_Mobile.png)
+    ![Desktop View](/screenshots/Images/Facebook_Clone_Mobile.png)
 
-    I have added videos in 
+    I have added videos in https://github.com/CharwekarAkshay/facebook_clone/tree/master/screenshots/Videos
