@@ -7,6 +7,7 @@
     facebook UI visuals which is almost similar to actual app. I will take this project further and make it functional. As of now we have a android application and web application that runs perfectly fine on any browser.
 
 ## Looks
+    ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
     ![Mobile View](https://github.com/CharwekarAkshay/facebook_clone/blob/master/screenshots/Images/Facebook_Clone_Desktop.png)
     ![Desktop View](https://github.com/CharwekarAkshay/facebook_clone/blob/master/screenshots/Images/Facebook_Clone_Mobile.png)
 
