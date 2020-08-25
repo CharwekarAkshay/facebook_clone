@@ -8,6 +8,8 @@
 
 ## Looks
     ![Mobile View](screenshots/Images/Facebook_Clone_Mobile.png)
+    Format: ![Alt Text](url)
     ![Desktop View](screenshots/Images/Facebook_Clone_Mobile.png)
+    Format: ![Alt Text](url)
 
     I have added videos in 
